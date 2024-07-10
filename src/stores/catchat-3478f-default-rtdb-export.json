@@ -1,0 +1,45 @@
+{
+  "chats": {
+    "pIWQLyOYGYfP8lGXC6YvTYEhy7R2": {
+      "pKXV1OFylzboPxWzFeqZSJs30tH2": {
+        "MESSAGEID1": {
+          "from": "them",
+          "text": "Hi how are you mate?"
+        },
+        "MESSAGEID2": {
+          "from": "me",
+          "text": "I'm good, Thanks!"
+        }
+      }
+    },
+    "pKXV1OFylzboPxWzFeqZSJs30tH2": {
+      "pIWQLyOYGYfP8lGXC6YvTYEhy7R2": {
+        "MESSAGEID1": {
+          "from": "me",
+          "text": "Hi how are you mate?"
+        },
+        "MESSAGEID2": {
+          "from": "them",
+          "text": "I'm good, Thanks!"
+        }
+      }
+    }
+  },
+  "users": {
+    "JedUitpxGbQ436Gsl3x7mKTB6LB2": {
+      "email": "klaudpnt@gmail.com",
+      "name": "Kaud",
+      "online": false
+    },
+    "pIWQLyOYGYfP8lGXC6YvTYEhy7R2": {
+      "email": "mikedacanay@gmail.com",
+      "name": "Mike",
+      "online": true
+    },
+    "pKXV1OFylzboPxWzFeqZSJs30tH2": {
+      "email": "robindc20@gmail.com",
+      "name": "Robin",
+      "online": false
+    }
+  }
+}
